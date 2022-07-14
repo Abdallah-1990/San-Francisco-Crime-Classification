@@ -1,8 +1,10 @@
-In this Project, It has been used PySpark to predict what type of crime will occur in a given region with prepared code for Kaggle submission
+
+In this Project,
+PySpark was used to predict what type of crime will occur in a given region with prepared code for Kaggle submission
 
 https://www.kaggle.com/c/sf-crime/overview
 
-Have been applied cycle composed of the following steps:
+Applied cycle composed of the following steps:
 <ol>
 <li>Data Exploration for understanding the variables and create intuition on the data.</li>
 <li>Feature Engineering to create additional variables from the existing.</li>
